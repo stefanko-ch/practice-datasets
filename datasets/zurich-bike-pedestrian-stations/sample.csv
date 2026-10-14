@@ -1,0 +1,101 @@
+station_id,abkuerzung,bezeichnung,velo,fuss,richtung_in,richtung_out,status,von,bis,korrekturfaktor,lon,lat
+1,FZS_HARD,Hardeggsteg,0,1,Kloster-Fahr-Weg,Hardturmstrasse,früher,2015-10-01,2016-03-31,0.86,8.504128,47.395281
+2,FZS_ALTO,Altstetterstrasse Ost,0,1,Bhf. Altstetten,Lindenplatz,früher,2015-10-01,2020-08-24,1.02,8.487502,47.39099
+3,FZS_LETD,Letten / Dynamo,0,1,Limmatplatz,Hauptbahnhof,früher,2015-10-01,2016-03-29,0.89,8.537536,47.3843
+4,FZS_ZEHN,Zehntenhausplatz Unterführung,0,1,Louis Conne Weg,In Böden,früher,2015-10-01,2016-03-31,0.95,8.506434,47.419105
+5,VZS_LUXG,Lux-Guyer-Weg,1,0,Innenstadt,Wipkingen,früher,2009-12-02,2018-12-20,1.0,8.536954,47.384998
+6,VZS_MYTH,Mythenquai,1,0,Innenstadt,Wollishofen,früher,2010-07-14,2018-12-21,1.2,8.535617,47.358655
+7,VZS_BINZ,Binzmühlestrasse,1,0,Oerlikon,Glaubtenstrasse,früher,2010-11-30,2018-04-04,1.22,8.523286,47.413641
+8,VZS_SCHE,Scheuchzerstrasse,1,0,Innenstadt,Irchel,früher,2010-09-23,2018-12-20,1.05,8.545377,47.382435
+9,VZS_ANDR,Andreasstrasse,1,0,Oerlikon,Wallisellen,früher,2010-12-16,2019-03-13,1.14,8.559332,47.413081
+10,VZS_SIHL,Sihlpromenade,1,0,Innenstadt,Saalsporthalle,früher,2010-07-14,2018-12-21,1.09,8.52924,47.369185
+12,VZS_BERT,Bertastrasse,1,0,Wiedikon,Aussersihl,früher,2010-07-26,2018-12-21,1.27,8.516258,47.375433
+13,VZS_HOFW,Hofwiesenstrasse,1,0,Bucheggplatz,---,früher,2010-09-23,2019-03-13,1.28,8.53397,47.400757
+15,VZS_SCHU,Schulstrasse,1,0,Irchel,Bahnhof Oerlikon,früher,2012-08-08,2019-03-14,1.43,8.543726,47.410084
+16,VZS_BUCH,Bucheggplatz,1,0,Hofwiesenstrasse,Höngg,früher,2014-06-26,2019-03-13,1.27,8.533452,47.39891
+18,FZS_HARD,Hardeggsteg,0,1,Kloster-Fahr-Weg,Hardturmstrasse,früher,2013-11-28,2014-03-20,0.86,8.504128,47.395281
+20,FZS_MILI,Militärbrücke,0,1,Löwenplatz,Langstrasse,früher,2013-07-11,2023-03-23,0.58,8.533522,47.375262
+23,FZS_ALTO,Altstetterstrasse Ost,0,1,Bhf. Altstetten,Lindenplatz,früher,2013-11-28,2015-03-31,1.02,8.487499,47.390989
+24,FZS_OHMO,Ohmstrasse Ost,0,1,Bhf. Oerlikon,Sternen Oerlikon,früher,2015-03-31,2015-10-01,1.07,8.545764,47.410834
+25,FZS_QUAS,Quaibrücke Süd (Seeseite),0,1,Bellevue,Bürkliplatz,früher,2013-08-23,2016-02-15,1.04,8.542861,47.366716
+26,FZS_QUAN,Quaibrücke Nord (Limmatseite),0,1,Bellevue,Bürkliplatz,früher,2013-08-23,2015-11-24,0.87,8.54281,47.366954
+27,FZS_LETD,Letten / Dynamo,0,1,Limmatplatz,Hauptbahnhof,früher,2014-07-10,2015-03-31,0.89,8.537536,47.3843
+28,FZS_LETL,Lettenviadukt (Limmatstr.),0,1,Limmat,Gleisanlagen,früher,2015-03-31,2015-10-01,0.79,8.526919,47.387818
+30,FZS_LANN,Langstrasse (Unterführung Nord),0,1,Limmatplatz,Helvetiaplatz,früher,2013-07-11,2018-02-03,0.32,8.528795,47.381605
+31,FZS_INGA,In Gassen,0,1,Paradeplatz,Rathaus,früher,2013-07-11,2014-11-07,0.95,8.541081,47.370638
+32,FZS_WEIN,Weinbergfussweg,0,1,Polyterrasse,Hauptbahnhof,früher,2013-07-11,2020-02-12,1.07,8.544489,47.379031
+33,FZS_LIMM,Limmatquai,0,1,Rathaus,Seeufer,früher,2013-07-11,2018-10-01,1.11,8.543325,47.370347
+34,FZS_KATZ,Katzenbach,0,1,Affoltern,Seebach,früher,2015-03-31,2015-10-01,0.18,8.517493,47.42529
+35,FZS_ZEHN,Zehntenhausplatz Unterführung,0,1,Louis Conne Weg,In Böden,früher,2013-11-28,2015-03-31,0.95,8.506434,47.419105
+36,FZS_CASS,Cassiopeiasteg,0,1,Stadtgrenze,Bellevue,früher,2015-04-30,2015-10-07,0.91,8.537241,47.342856
+37,FZS_MYTH,Mythenquai Unterführung,0,1,Seeufer,Bhf. Wollishofen,früher,2013-11-28,2015-04-30,0.85,8.534749,47.355056
+39,FZS_LANS,Langstrasse (Unterführung Süd),0,1,Gleisanlagen,Limmat,früher,2015-03-10,2021-10-28,0.23,8.529287,47.381789
+43,FZS_ALTW,Altstetterstrasse West,0,1,Bhf. Altstetten,Lindenplatz,früher,2013-11-28,2015-03-31,1.07,8.487287,47.391009
+44,FZS_OHMW,Ohmstrasse West,0,1,Bhf. Oerlikon,Sternen Oerlikon,früher,2015-03-31,2015-09-25,1.26,8.545965,47.410692
+46,FZS_ARBO,Arboretum,0,1,Stadtgrenze,Innenstadt,früher,2015-03-10,2015-09-08,1.02,8.537022,47.362581
+50,FZS_CHOR,Chorherrenweg,0,1,Limmat,Meierhofplatz,früher,2015-03-31,2015-10-01,0.74,8.49846,47.401324
+51,FZS_HARD,Hardeggsteg,0,1,Kloster-Fahr-Weg,Hardturmstrasse,früher,2014-03-20,2015-03-31,0.86,8.504128,47.395281
+52,VZS_FISC,Fischerweg,1,1,Innenstadt,Stadtgrenze,früher,2010-07-09,2020-02-03,1.0,8.484577,47.400074
+53,VZS_KLOW,Kloster-Fahr-Weg,1,1,Stadtgrenze,Innenstadt,früher,2010-06-25,2020-02-03,0.94,8.485572,47.402143
+54,VZS_MUEH,Mühlebachstrasse,1,0,Bellevue,Riesbach,früher,2010-09-23,2018-09-27,1.19,8.550739,47.364582
+55,VZS_LANN,Langstrasse (Unterführung Nord),1,0,Helvetiaplatz,Limmatplatz,früher,2013-06-27,2017-07-11,0.96,8.528189,47.380619
+56,VZS_SAUM,Saumackerstrasse,1,0,Uetliberg,Bahnhof Altstetten,früher,2014-03-11,2019-11-15,1.27,8.489429,47.390162
+57,VZS_ZOLL,Zollstrasse,1,0,Sihlquai,Langstrasse,früher,2014-03-11,2019-07-23,1.49,8.537016,47.379636
+58,VZS_TOED,Tödistrasse,1,0,Seeufer,Hauptbahnhof,früher,2014-03-11,2016-07-26,1.41,8.535845,47.364571
+59,VZS_TALS,Talstrasse,1,0,Hauptbahnhof,Seeufer,früher,2014-03-12,2019-09-19,1.35,8.53432,47.371548
+60,VZS_MILI,Militärbrücke,1,0,Bahnhofstrasse,Langstrasse,früher,2014-03-12,2023-03-22,0.95,8.534073,47.375014
+61,VZS_LIMB,Limmatquai --> Bellevue,1,0,Bellevue,---,früher,2014-06-25,2019-06-03,1.47,8.543433,47.369123
+62,VZS_LIMC,Limmatquai --> Central,1,0,Central,,früher,2014-06-25,2020-06-26,1.33,8.543565,47.369139
+63,FZS_INGA,In Gassen,0,1,Paradeplatz,Rathaus,früher,2014-11-07,2015-09-09,0.95,8.541081,47.370638
+64,FZS_MYTH,Mythenquai Unterführung,0,1,Seeufer,Bhf. Wollishofen,früher,2015-10-07,2016-04-04,0.85,8.534749,47.355056
+65,FZS_ALTW,Altstetterstrasse West,0,1,Bhf. Altstetten,Lindenplatz,früher,2015-10-16,2020-02-14,1.07,8.487287,47.391009
+384,FZS_INGA,In Gassen,0,1,Paradeplatz,Rathaus,früher,2015-10-21,2017-08-30,0.95,8.541081,47.370638
+390,FZS_LETL,Lettenviadukt (Limmatstr.),0,1,Limmat,Gleisanlagen,früher,2016-03-30,2016-09-30,0.79,8.526919,47.387818
+391,FZS_CHOR,Chorherrenweg,0,1,Limmat,Meierhofplatz,früher,2016-04-01,2016-09-30,0.74,8.49846,47.401324
+392,FZS_KATZ,Katzenbach,0,1,Affoltern,Seebach,früher,2016-04-01,2016-09-30,0.18,8.517493,47.42529
+393,FZS_OHMW,Ohmstrasse West,0,1,Sternen Oerlikon,Bhf. Oerlikon,früher,2016-04-02,2016-04-20,1.26,8.545764,47.410834
+394,FZS_OHMO,Ohmstrasse Ost,0,1,Bhf. Oerlikon,Sternen Oerlikon,früher,2016-04-01,2023-03-23,1.07,8.545965,47.410692
+395,FZS_CASS,Cassiopeiasteg,0,1,Stadtgrenze,Bellevue,früher,2016-04-05,2016-09-30,0.91,8.537241,47.342856
+722,VZS_LANS,Langstrasse (Unterführung Süd),1,0,Helvetiaplatz,Limmatplatz,früher,2016-04-27,2017-09-08,1.0,8.529298,47.381719
+732,VZS_HARN,Hardbrücke Nord (Seite Altstetten),1,0,Escher-Wyss-Platz,Hardplatz,aktuell,2016-07-07,,1.1,8.51556,47.383799
+1037,VZS_HARS,Hardbrücke Süd (Seite HB),1,0,Escher-Wyss-Platz,Hardplatz,aktuell,2016-07-07,,1.03,8.515816,47.38363
+1357,FZS_ARBO,Arboretum,0,1,Stadtgrenze,Innenstadt,früher,2016-07-22,2023-01-03,1.02,8.537022,47.362581
+1358,FZS_OHMW,Ohmstrasse West,0,1,Sternen Oerlikon,Bhf. Oerlikon,früher,2016-09-02,2021-09-28,1.26,8.545761,47.410832
+1359,FZS_LETD,Letten / Dynamo,0,1,Limmatplatz,Hauptbahnhof,früher,2016-10-01,2017-04-10,0.89,8.537536,47.3843
+1360,FZS_HARD,Hardeggsteg,0,1,Kloster-Fahr-Weg,Hardturmstrasse,früher,2016-10-01,2017-04-10,0.86,8.504128,47.395281
+1361,FZS_ZEHN,Zehntenhausplatz Unterführung,0,1,Louis Conne Weg,In Böden,früher,2016-10-01,2017-04-10,0.95,8.506434,47.419105
+1362,FZS_MYTH,Mythenquai Unterführung,0,1,Seeufer,Bhf. Wollishofen,früher,2016-10-01,2017-04-10,0.85,8.534749,47.355056
+1365,FZS_QUAS,Quaibrücke Süd (Seeseite),0,1,Bürkliplatz,Bellevue,früher,2016-10-18,2017-03-13,1.0,8.542861,47.366716
+1681,FZS_KLOE,Kloster-Fahr-Weg (Europabrücke),0,1,Werdinsel,Innenstadt,früher,2017-01-13,2023-03-23,1.1,8.49903,47.398692
+1682,FZS_QUAN,Quaibrücke Nord (Limmatseite),0,1,Bellevue,Bürkliplatz,früher,2017-01-13,2017-03-13,1.0,8.54281,47.366954
+1688,FZS_CASS,Cassiopeiasteg,0,1,Stadtgrenze,Bellevue,früher,2017-04-11,2017-10-04,0.91,8.537241,47.342856
+1689,FZS_LETL,Lettenviadukt (Limmatstr.),0,1,Limmat,Gleisanlagen,früher,2017-04-10,2017-10-04,0.79,8.526919,47.387818
+1690,FZS_CHOR,Chorherrenweg,0,1,Limmat,Meierhofplatz,früher,2017-04-11,2017-10-04,0.74,8.49846,47.401324
+1691,FZS_KATZ,Katzenbach,0,1,Affoltern,Seebach,früher,2017-04-11,2017-10-04,0.18,8.517493,47.42529
+1692,VZS_TOED,Tödistrasse,1,0,Seeufer,Hauptbahnhof,früher,2017-05-22,2021-02-20,1.41,8.535845,47.364571
+1997,VZS_LANN,Langstrasse (Unterführung Nord),1,0,Helvetiaplatz,Limmatplatz,früher,2017-07-25,2017-09-08,0.96,8.528189,47.380619
+2319,VZS_LANN,Langstrasse (Unterführung Nord),1,0,Helvetiaplatz,Limmatplatz,früher,2017-09-08,2018-09-20,0.96,8.528189,47.380619
+2320,VZS_LANS,Langstrasse (Unterführung Süd),1,0,Helvetiaplatz,Limmatplatz,früher,2017-09-08,2017-10-02,1.0,8.529298,47.381719
+2637,VZS_LANS,Langstrasse (Unterführung Süd),1,0,Helvetiaplatz,Limmatplatz,früher,2017-10-03,2018-03-26,1.0,8.529298,47.381719
+2638,FZS_LETD,Letten / Dynamo,0,1,Limmatplatz,Hauptbahnhof,früher,2017-10-05,2018-04-09,0.89,8.537536,47.3843
+2639,FZS_HARD,Hardeggsteg,0,1,Kloster-Fahr-Weg,Hardturmstrasse,früher,2017-10-05,2018-04-09,0.86,8.504128,47.395281
+2640,FZS_ZEHN,Zehntenhausplatz Unterführung,0,1,Louis Conne Weg,In Böden,früher,2017-10-05,2021-07-29,0.95,8.506434,47.419105
+2641,FZS_MYTH,Mythenquai Unterführung,0,1,Seeufer,Bhf. Wollishofen,früher,2017-10-05,2023-03-23,0.85,8.534749,47.355056
+2642,FZS_CASS,Cassiopeiasteg,0,1,Stadtgrenze,Bellevue,früher,2017-10-17,2020-08-27,0.91,8.537241,47.342856
+2957,FZS_KATZ,Katzenbach,0,1,Affoltern,Seebach,früher,2017-11-29,2019-11-23,0.18,8.517493,47.42529
+2958,FZS_CHOR,Chorherrenweg,0,1,Limmat,Meierhofplatz,früher,2018-04-10,2018-10-01,0.74,8.49846,47.401324
+2959,FZS_LETL,Lettenviadukt (Limmatstr.),0,1,Limmat,Gleisanlagen,früher,2018-04-10,2018-10-01,0.79,8.526919,47.387818
+2960,VZS_BINZ,Binzmühlestrasse,1,0,Oerlikon,Glaubtenstrasse,früher,2018-04-11,2018-09-29,1.22,8.523286,47.413641
+2961,FZS_LANN,Langstrasse (Unterführung Nord),0,1,Limmatplatz,Helvetiaplatz,früher,2018-04-13,2023-03-23,0.32,8.528795,47.381605
+2962,VZS_LANS,Langstrasse (Unterführung Süd),1,0,Helvetiaplatz,Limmatplatz,früher,2018-04-24,2018-06-15,1.0,8.529298,47.381719
+2977,VZS_HOFW,Hofwiesenstrasse,1,0,Bucheggplatz,---,früher,2019-06-19,2023-01-18,1.28,8.533947,47.400758
+2978,VZS_SCHU,Schulstrasse,1,0,Irchel,Bahnhof Oerlikon,früher,2019-06-19,2023-03-22,1.43,8.543735,47.410086
+2979,VZS_BINZ,Binzmühlestrasse,1,0,Oerlikon,Glaubtenstrasse,früher,2019-06-19,2022-12-01,1.22,8.523296,47.413639
+2980,VZS_ZOLL,Zollstrasse,1,0,Langstrasse,Sihlquai,früher,2019-07-23,2022-03-31,1.49,8.537001,47.379638
+2982,VZS_LIMB,Limmatquai --> Bellevue,1,0,Bellevue,---,früher,2019-08-10,2024-05-09,1.47,8.543438,47.36912
+2984,FZS_LETD,Letten / Dynamo,0,1,Limmatplatz,Hauptbahnhof,früher,2019-10-04,2020-04-30,0.89,8.537532,47.384301
+2985,FZS_HARD,Hardeggsteg,0,1,Kloster-Fahr-Weg,Hardturmstrasse,früher,2019-10-04,2020-04-30,0.86,8.504132,47.395278
+2986,VZS_ANDR,Andreasstrasse,1,0,Oerlikon,Wallisellen,früher,2019-10-11,2026-08-16,1.14,8.559327,47.413076
+2989,VZS_LANN,Langstrasse (Unterführung Nord),1,0,Helvetiaplatz,Limmatplatz,aktuell,2019-11-08,,0.96,8.528191,47.380615
+2991,VZS_TALS,Talstrasse,1,0,Hauptbahnhof,Seeufer,früher,2019-12-04,2025-08-20,1.35,8.534334,47.371548
+2993,VZS_SCHE,Scheuchzerstrasse,1,0,Innenstadt,Irchel,aktuell,2020-01-10,,1.05,8.545382,47.382436

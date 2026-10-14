@@ -1,0 +1,190 @@
+{
+ "root": {
+  "Page": [
+   {
+    "Position": {
+     "Updated": {
+      "Unix": 1771719938,
+      "Value": "22.02.2026 01:25:38"
+     },
+     "Type": "GenericPlatform Hotel",
+     "Picture": "https://images.example.com/hotels/9026.jpg",
+     "Text-Line": [
+      "",
+      "",
+      "",
+      ""
+     ],
+     "Extra": [
+      "",
+      "",
+      "",
+      ""
+     ],
+     "Link": {
+      "HRef": "",
+      "OverrideState": false
+     },
+     "LinkOffers": {
+      "HRef": ""
+     },
+     "LinkHotels": {
+      "HRef": ""
+     },
+     "Duration": {
+      "Measure": "Tage",
+      "Value": 7
+     },
+     "Price": {
+      "Currency": "EUR",
+      "Suffix": "p.P.",
+      "Value": 634
+     },
+     "Package": {
+      "AdultsNumber": 2,
+      "ChildrenCount": 0,
+      "DepartureDate": {
+       "Format": "German",
+       "Value": "11.05.2026"
+      },
+      "TourOperator": {
+       "Acronym": "STB",
+       "Name": "Sample Tours B"
+      },
+      "MealPlan": {
+       "Acronym": "AI",
+       "Name": "All Inclusive"
+      },
+      "RoomCode": "AP",
+      "RoomType": {
+       "Acronym": "",
+       "GlobalType": "",
+       "Name": ""
+      },
+      "Hotelrating": {
+       "Rating": "75",
+       "Recommend": "66,3%",
+       "Average": "4,7"
+      },
+      "TravelType": "LAEN"
+     },
+     "Destination": {
+      "Country": {
+       "Id": "CY",
+       "Name": "Zypern"
+      },
+      "Region": {
+       "Id": "620",
+       "Name": "Republik Zypern - Süden"
+      },
+      "Location": {
+       "Id": "573",
+       "Name": "Protaras"
+      }
+     },
+     "Hotel": {
+      "Id": "9026",
+      "GiataId": "70026",
+      "Name": "Sunset Boutique Hotel",
+      "Class": "3,5",
+      "Lat": "35.01044",
+      "Lon": "34.05357"
+     },
+     "ServiceCode": "LCA71694"
+    }
+   },
+   {
+    "Position": {
+     "Updated": {
+      "Unix": 1771719938,
+      "Value": "22.02.2026 01:25:38"
+     },
+     "Type": "GenericPlatform Hotel",
+     "Picture": "https://images.example.com/hotels/9014.jpg",
+     "Text-Line": [
+      "",
+      "",
+      "",
+      ""
+     ],
+     "Extra": [
+      "",
+      "",
+      "",
+      ""
+     ],
+     "Link": {
+      "HRef": "",
+      "OverrideState": false
+     },
+     "LinkOffers": {
+      "HRef": ""
+     },
+     "LinkHotels": {
+      "HRef": ""
+     },
+     "Duration": {
+      "Measure": "Tage",
+      "Value": 7
+     },
+     "Price": {
+      "Currency": "EUR",
+      "Suffix": "p.P.",
+      "Value": 488
+     },
+     "Package": {
+      "AdultsNumber": 2,
+      "ChildrenCount": 0,
+      "DepartureDate": {
+       "Format": "German",
+       "Value": "18.06.2026"
+      },
+      "TourOperator": {
+       "Acronym": "STD",
+       "Name": "Sample Tours D"
+      },
+      "MealPlan": {
+       "Acronym": "FR",
+       "Name": "Frühstück"
+      },
+      "RoomCode": "DZM",
+      "RoomType": {
+       "Acronym": "",
+       "GlobalType": "",
+       "Name": ""
+      },
+      "Hotelrating": {
+       "Rating": "81",
+       "Recommend": "80,8%",
+       "Average": "5,1"
+      },
+      "TravelType": "LAEN"
+     },
+     "Destination": {
+      "Country": {
+       "Id": "CY",
+       "Name": "Zypern"
+      },
+      "Region": {
+       "Id": "621",
+       "Name": "Republik Zypern - Westen"
+      },
+      "Location": {
+       "Id": "580",
+       "Name": "Paphos"
+      }
+     },
+     "Hotel": {
+      "Id": "9014",
+      "GiataId": "70014",
+      "Name": "Golden Beach Hotel",
+      "Class": "5",
+      "Lat": "34.78102",
+      "Lon": "32.42937"
+     },
+     "ServiceCode": "LCA35313"
+    }
+   }
+  ]
+ }
+}

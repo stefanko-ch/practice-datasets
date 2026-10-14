@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datasets are published as release assets, not committed
+data/
+dist/
+.DS_Store
