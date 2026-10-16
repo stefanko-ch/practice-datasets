@@ -136,6 +136,53 @@ DATASETS = [
         source="https://ggplot2.tidyverse.org/reference/diamonds.html", license="MIT (ggplot2)",
     ),
     dict(
+        name="penguins", asset="penguins.csv", files=["teaching/penguins.csv"],
+        title="Palmer penguins – body measurements of 344 penguins",
+        description="Bill length and depth, flipper length, body mass and sex of three penguin species (Adelie, Chinstrap, "
+                    "Gentoo) on three islands of the Palmer Archipelago, Antarctica. Some values are missing on purpose "
+                    "(NaN). Exported from seaborn's `load_dataset(\"penguins\")`.",
+        source="https://allisonhorst.github.io/palmerpenguins/", license="CC0 (palmerpenguins)",
+        columns={"species": "Adelie, Chinstrap or Gentoo", "island": "Biscoe, Dream or Torgersen",
+                 "bill_length_mm / bill_depth_mm": "Bill (beak) length and depth, mm",
+                 "flipper_length_mm": "Flipper length, mm", "body_mass_g": "Body mass, g", "sex": "Male / Female (some missing)"},
+    ),
+    dict(
+        name="tips", asset="tips.csv", files=["teaching/tips.csv"],
+        title="Restaurant tips – 244 bills with tip, day and time",
+        description="Total bill, tip, sex and smoker status of the payer, weekday, lunch/dinner and party size for 244 "
+                    "restaurant bills. The classic small dataset of seaborn and Plotly Express (`px.data.tips()`, identical).",
+        source="https://plotly.com/python-api-reference/generated/plotly.express.data.html", license="MIT (plotly.py sample data)",
+        columns={"total_bill / tip": "Bill and tip, USD", "sex / smoker": "Payer", "day": "Thur, Fri, Sat, Sun",
+                 "time": "Lunch / Dinner", "size": "Number of people at the table"},
+    ),
+    dict(
+        name="gapminder", asset="gapminder.csv", files=["teaching/gapminder.csv"],
+        title="Gapminder – life expectancy, population and GDP per capita, 142 countries 1952–2007",
+        description="One row per country and 5-year step (1952, 1957, … 2007): continent, life expectancy, population and "
+                    "GDP per capita (inflation-adjusted USD), plus ISO codes. Exported from `px.data.gapminder()`.",
+        source="https://www.gapminder.org/data/", license="CC BY 4.0 (Gapminder), distributed with plotly.py (MIT)",
+        columns={"country / continent": "Country and continent", "year": "1952–2007 in steps of 5",
+                 "lifeExp": "Life expectancy at birth, years", "pop": "Population",
+                 "gdpPercap": "GDP per capita, inflation-adjusted USD", "iso_alpha / iso_num": "ISO 3166 country codes"},
+    ),
+    dict(
+        name="iris", asset="iris.csv", files=["teaching/iris.csv"],
+        title="Iris – sepal and petal measurements of 150 flowers",
+        description="Fisher's 1936 iris data: four measurements of 50 flowers each of three iris species. "
+                    "Exported from `px.data.iris()`.",
+        source="https://archive.ics.uci.edu/dataset/53/iris", license="Public domain (Fisher, 1936)",
+        columns={"sepal_length / sepal_width / petal_length / petal_width": "Measurements, cm",
+                 "species": "setosa, versicolor, virginica", "species_id": "1, 2, 3"},
+    ),
+    dict(
+        name="stocks", asset="stocks.csv", files=["teaching/stocks.csv"],
+        title="Stocks – weekly prices of six tech stocks 2018–2019 (wide format)",
+        description="Weekly prices of GOOG, AAPL, AMZN, FB, NFLX and MSFT, normalised to 1.0 on the first date – one "
+                    "column per stock (wide format, good for practising `melt`). Exported from `px.data.stocks()`.",
+        source="https://plotly.com/python-api-reference/generated/plotly.express.data.html", license="MIT (plotly.py sample data)",
+        columns={"date": "Week", "GOOG … MSFT": "Price relative to the first week"},
+    ),
+    dict(
         name="hr-employees", asset="hr_employees.csv", files=["synthetic/hr_employees.csv"],
         title="HR – employee satisfaction and attrition (synthetic)",
         description="15 000 employees with satisfaction, evaluation, projects, working hours, department, salary band and "

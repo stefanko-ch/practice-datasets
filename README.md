@@ -32,6 +32,11 @@ outbound firewall (many other sites, e.g. `data.stadt-zuerich.ch`, are blocked).
 | [financials-sample](datasets/financials-sample/) | Financials – Excel workbook with two sheets (synthetic) | `financials_sample.xlsx` | 82 KB | CC0 |
 | [wine](datasets/wine/) | Wine – chemical analysis of 178 Italian wines (UCI Wine) | `wine.csv` | 12 KB | CC BY 4.0 (UCI Machine Learning Repository) |
 | [diamonds](datasets/diamonds/) | Diamonds – prices and attributes of ≈ 54 000 diamonds | `diamonds.csv` | 3.2 MB | MIT (ggplot2) |
+| [penguins](datasets/penguins/) | Palmer penguins – body measurements of 344 penguins | `penguins.csv` | 15 KB | CC0 (palmerpenguins) |
+| [tips](datasets/tips/) | Restaurant tips – 244 bills with tip, day and time | `tips.csv` | 8 KB | MIT (plotly.py sample data) |
+| [gapminder](datasets/gapminder/) | Gapminder – life expectancy, population and GDP per capita, 142 countries 1952–2007 | `gapminder.csv` | 99 KB | CC BY 4.0 (Gapminder), distributed with plotly.py (MIT) |
+| [iris](datasets/iris/) | Iris – sepal and petal measurements of 150 flowers | `iris.csv` | 4 KB | Public domain (Fisher, 1936) |
+| [stocks](datasets/stocks/) | Stocks – weekly prices of six tech stocks 2018–2019 (wide format) | `stocks.csv` | 13 KB | MIT (plotly.py sample data) |
 | [hr-employees](datasets/hr-employees/) | HR – employee satisfaction and attrition (synthetic) | `hr_employees.csv` | 588 KB | CC0 |
 | [personality](datasets/personality/) | Personality – introvert vs. extrovert behaviour (synthetic) | `personality.csv` | 108 KB | CC0 |
 | [small-tables](datasets/small-tables/) | Small tables for SQL and text exercises (synthetic) | `small_tables.zip` | 5 KB | CC0 |
